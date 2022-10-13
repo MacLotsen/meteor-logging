@@ -1,6 +1,6 @@
 Package.describe({
     name: 'xerdi:logging',
-    version: '0.0.1',
+    version: '0.0.2',
     summary: 'Bundle of the ostrio logger packages',
     git: 'https://github.com/MacLotsen/meteor-logging.git',
     documentation: 'README.md'
