@@ -8,12 +8,12 @@ Package.describe({
 
 Package.onUse(function (api) {
     api.use([
-        'ecmascript',
+        'ecmascript@0.16.2',
         'meteor',
-        'ostrio:logger',
-        'ostrio:loggerfile',
-        'ostrio:loggermongo',
-        'ostrio:loggerconsole'
+        'ostrio:logger@2.1.1',
+        'ostrio:loggerfile@2.1.0',
+        'ostrio:loggermongo@2.1.0',
+        'ostrio:loggerconsole@2.1.0'
     ]);
     api.mainModule('index.js');
 });
