@@ -1,4 +1,4 @@
-# Xerdi Logging
+# Meteor Logging
 
 Simple logging wrapper of the [ostrio:logger](https://github.com/VeliovGroup/Meteor-logger) packages.
 
